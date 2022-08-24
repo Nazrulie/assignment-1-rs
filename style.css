@@ -1,0 +1,230 @@
+body {
+    font-family: 'Secular One', sans-serif;
+    margin: 0%;
+}
+
+.top-hadding {
+    background-image: url(images/donation13.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 700px;
+}
+
+.top-h1 {
+    padding-top: 70px;
+    color: rgb(138, 243, 112);
+}
+
+.top-hadding h1 {
+    font-size: 70px;
+    margin-top: 0%;
+}
+
+.top-hadding p {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    color: rgb(243, 248, 249);
+    font-size: 20px;
+}
+
+.top-hadding a {
+
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(200, 255, 0), rgb(0, 255, 55));
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 900;
+}
+
+.middle-work {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.middle-work h1 {
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+.amount {
+    display: flex;
+    padding-left: 120px;
+}
+
+.red-col {
+    border: 2px solid red;
+    color: rgb(239, 176, 176);
+    background-color: rgb(243, 206, 206);
+}
+
+.amount h1 {
+    padding: 20px 20px;
+
+    margin: 20px;
+    border-radius: 5px;
+    color: rgb(61, 62, 63);
+}
+
+.middle-work input {
+    margin-top: 60px;
+    border: none;
+    border-bottom: 400px;
+    width: 250px;
+    height: 20px;
+    font-size: 28px;
+
+
+}
+
+.underline {
+    border: 1px solid rgb(149, 146, 146);
+    background-color: rgb(149, 146, 146);
+
+
+}
+
+.ancor {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.ancor a {
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(200, 255, 0), rgb(0, 255, 55));
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 900;
+}
+
+.plan-section {
+    text-align: center;
+    margin: 150px;
+}
+
+.plan-section h1 {
+    font-size: 40px;
+}
+
+.plan-section p {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.plans {
+    display: flex;
+
+}
+
+.plans-set1 {
+    background-color: rgb(221, 230, 230);
+    margin-right: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+
+}
+
+.plans-set2 {
+    background-color: rgb(198, 196, 201);
+    margin-right: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.plans-set3 {
+    background-color: rgb(237, 216, 216);
+    margin-right: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.img img {
+    margin-top: 40px;
+}
+
+.bunas {
+    margin: 150px;
+    display: flex;
+    width: 70%;
+}
+
+.bunas img {
+    width: 100%;
+    margin-left: 20px;
+}
+
+.bunas h1 {
+    font-size: 40px;
+}
+
+.ancor-1 {
+    margin-top: 40px;
+}
+
+.ancor-1 a {
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(200, 255, 0), rgb(0, 255, 55));
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 900;
+}
+
+.update {
+    margin: 150px;
+    text-align: center;
+}
+
+.update h1 {
+    font-size: 40px;
+}
+
+.submit {
+    align-items: center;
+    margin-left: 50px;
+    width: 900px;
+    height: 200px;
+    background-color: rgb(244, 226, 229);
+    border-radius: 5px;
+}
+
+.submit input {
+    margin-top: 70px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(204, 204, 191);
+    color: black;
+    font-weight: 600;
+
+}
+
+.submit button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(200, 255, 0), rgb(0, 255, 55));
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.footer {
+    text-align: center;
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    color: rgb(0, 255, 55);
+}
+
+.footer h1 {
+    font-size: 50px;
+}
